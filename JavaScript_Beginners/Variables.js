@@ -17,7 +17,7 @@ c = 60;
 
 TypeError: Assignment to constant variable.
 
-So, when i try to change the constant value c it gives an error becuase we cannot change the value once it declared in the const.
+So, when i try to change the constant value c it gives an error whic i mentioned above  becuase we cannot change the value once it declared in the const.
 */
 a = 40;
 b = 50;
